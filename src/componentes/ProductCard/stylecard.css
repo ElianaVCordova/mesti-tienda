@@ -1,0 +1,9 @@
+.productCard{
+    border: 2px solid rgb(42, 146, 85);
+    color: rgb(250, 242, 242);
+    background-color: rgb(71, 192, 152);
+    width: 33%;
+    text-align: center;
+    margin-inline-start: 33%;
+
+}
